@@ -52,17 +52,17 @@ To fully understand the system's mechanics and consult the detailed user manuals
 
 ### 🧠 Core System
 * **[V-LISTA Core System (Google Sheets)]** *The heartbeat of the system: SKU management, Watt calculation, and Agenda.
-👉 https://docs.google.com/spreadsheets/d/1IHmJzecgcaNe9Iv2Sjji482XHVJWcrNdeUj6hzQ6eDA/edit?gid=0#gid=0
+👉 https://docs.google.com/spreadsheets/d/1IHmJzecgcaNe9Iv2Sjji482XHVJWcrNdeUj6hzQ6eDA/edit?usp=sharing
 
 ### 📝 Input & Processing Buffers
 * **[INPUT_BUFFER (Google Docs)]** *The zero-latency radial acquisition area for fast notes and sudden thoughts.
-👉 https://docs.google.com/document/d/1YWFRi6nHgKjaNKLo4xBpb7IfTuAktKhlp6I0MzJiEgg/edit?tab=t.0
+👉 https://docs.google.com/document/d/1YWFRi6nHgKjaNKLo4xBpb7IfTuAktKhlp6I0MzJiEgg/edit?usp=sharing
 
 * **[ELAB_EXPANSION_LOG (Google Docs)]** *Where complex notes are refined and transformed into operational protocols.
-👉 https://docs.google.com/document/d/1WhiQk9pqN4IvunibW_CUy-Git6axJ8aq1tMT00DpdaU/edit?tab=t.0
+👉 https://docs.google.com/document/d/1WhiQk9pqN4IvunibW_CUy-Git6axJ8aq1tMT00DpdaU/edit?usp=sharing
 
 
 
 ### 📖 Manuals and Insights
 * **[Executive Functional Guide]** *Detailed explanation of each sheet, GAS commands, and PR/WATT parameters.
-👉 https://docs.google.com/document/d/1-JMRodtC6MpxwB3qFV-G_UfDW7ZtWYuLTIxmDQkFuQQ/edit?tab=t.0#heading=h.k0f3k082gzji
+👉 https://docs.google.com/document/d/1-JMRodtC6MpxwB3qFV-G_UfDW7ZtWYuLTIxmDQkFuQQ/edit?usp=sharing
