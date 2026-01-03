@@ -44,6 +44,8 @@ To ensure flexibility and creativity, the system follows a workflow based on **P
 
 > **Technical Note:** The entire infrastructure is coordinated by custom **Google Apps Script (.gs)** files, enabling seamless interconnection between documents and the automation of priority calculations.
 
+> **Note:** The detailed Technical Documentation and Code Architecture README are currently under development and will be released in the upcoming weeks
+
 
 
 ## IV. Resources and Operational Documentation
